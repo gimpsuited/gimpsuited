@@ -1,4 +1,8 @@
 <center>
+ <h1 align="center">
+ <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneurozoned&label=visitors&icon=bug&color=%23f1af3e&message=&style=flat&tz=Etc%2FGMT%2B0">
+ </h1>
+ 
  <p align="center">
 ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــ
  </p>
@@ -7,14 +11,16 @@
 <img src="yepthatsme.png" height="250">
 </p>
 
+
  <p align="center">
-ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــ
- </p>
+☠︎ OFFTAB 𓉸 W21 ☠︎
 
  
 <div align="center">
  
-
+ <p align="center">
+ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــ
+ </p>
 
 </div>
   
@@ -22,7 +28,7 @@
 <br>
 
  <p align="center">
- [ <a href="https://listography.com/gimp"> ✃ LISTOGRAPHY</a> ⚠︎ <a href="https://neurozone.atabook.org/"> ✃ ATABOOK</a> ]
+ᡕᠵデᡁ╾━ [ <a href="https://listography.com/gimp"> ✃ LISTOGRAPHY</a> ⚠︎ <a href="https://neurozone.atabook.org/"> ✃ ATABOOK</a> ] ᡕᠵデᡁ╾━
  </p>
 
  <h1 align="center">
@@ -31,7 +37,7 @@
  
 
  
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneurozoned&label=visitors&icon=bug&color=%23f1af3e&message=&style=flat&tz=Etc%2FGMT%2B0">
+ 
 
  </h1>
  
