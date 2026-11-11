@@ -5,14 +5,10 @@
 
 <div align="center">
  
-<img src="https://64.media.tumblr.com/514ede3b801422bccc34da88101f15cc/61d0bde25e279c58-55/s75x75_c1/87698c249c5ab2847a00fafc463a7c8dbefb0df3.webp"> ![63b59beeeb20a537bd24b88b5ea32834_resized_resized (2)](https://github.com/user-attachments/assets/5628b492-d93b-490e-9611-195ae4c073aa) <img src="https://64.media.tumblr.com/1bc55342964b5ec8b2fe8ea5d5a6ea76/fee45ed2ddd18dac-ed/s75x75_c1/db652d0dabd15a40217627202f1fb7ea92666e71.pnj">
+
 
 </div>
   
-<p align="center">
-<img width="550" src="https://64.media.tumblr.com/280d47ddee4a9e4ff5afea04a8aef2a7/8ff434638d8d5ff6-4e/s400x600/69233c2f8f2cb40d7f6786e9c9b89db8a04ed909.gifv"
- </p>
-
 
 <br>
 
@@ -21,10 +17,10 @@
  </p>
 
  <h1 align="center">
-  
-  ![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/5ddf460d-05c2-4ba7-b456-022e54178b15)
  
-  </p>
+
+ 
+
  
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneurozoned&label=visitors&icon=bug&color=%23f1af3e&message=&style=flat&tz=Etc%2FGMT%2B0">
 
@@ -51,12 +47,9 @@
 
  <br>
  
-<p align="center">
-<img width="550" src="https://64.media.tumblr.com/280d47ddee4a9e4ff5afea04a8aef2a7/8ff434638d8d5ff6-4e/s400x600/69233c2f8f2cb40d7f6786e9c9b89db8a04ed909.gifv"
- </p>
 
 <div align="center">
-  <details open>
+  <details closed>
 <summary><b><strong>BLINKIES</strong></b></summary>
   
 <p align="center">
