@@ -4,7 +4,7 @@
  </h1>
  
  <p align="center">
-ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــ
+ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــ
  </p>
  
  <p align="center">
@@ -28,7 +28,7 @@
 
  
   <p align="center">
-   ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــ
+   ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــ
   </p>
   
   </div>
@@ -41,7 +41,7 @@
 
 <div align="center">
   <details closed>
-<summary><b><strong>BLINKIES</strong></b></summary>
+<summary><b><strong>꒷꒦ blinkies</strong></b></summary>
   
 <p align="center">
  <img src="https://64.media.tumblr.com/730a12071eeb7bb7744d64cb55c4a289/7683caff4be9ee79-78/s250x400/fbf2e3449021f5620278a64626ab8c36861e453c.gifv"> <img src="https://64.media.tumblr.com/cd187abcced77c1ef497dba90e1b49c5/7683caff4be9ee79-66/s250x400/ce736444129c475b3f2d2183eeeeda07960953a2.gif"> <img src="https://64.media.tumblr.com/02aafb8de5336865a1c6627c78eb3795/4da3e75336d50353-3f/s250x400/0931249f8a827c65ddab5736d5f2ede93ac04c58.gifv">
@@ -146,7 +146,7 @@
 
 <div align="center">
 <details>
-<summary><b><strong>STAMPS</strong></b></summary>
+<summary><b><strong>꒷꒦ stamps</strong></b></summary>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxcG84ZmhyaGswemY1dnp5dHZ4aTJrdmJueXQyejQ3Z2FpbXI0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9XuXo3oDtAta6wVaB7/giphy.gif"> </a> <img src="https://media.giphy.com/media/wfpa3kY8s1RZ3K7wUy/giphy.gif"> </a> <img src="https://media.giphy.com/media/WI5740ImDX36FYGLxf/giphy.gif"> </a> <img src="https://media.giphy.com/media/AupTnl0AsqbdisEHpQ/giphy.gif"> </a>
 <br>
