@@ -4,7 +4,7 @@
  </h1>
  
  <p align="center">
-ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہ
+ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــ
  </p>
  
  <p align="center">
@@ -13,7 +13,7 @@
 
 
  <p align="center">
-☠︎ OFFTAB 𓉸 W21 ☠︎
+☠︎ OFFTAB : ̗̀⁍ W21 ☠︎
 
  
 <div align="center">
@@ -23,12 +23,12 @@
   
 
  <p align="center">
-ᡕᠵデᡁ╾━ [ <a href="https://listography.com/gimp"> ✃ LISTOGRAPHY</a> ⚠︎ <a href="https://neurozone.atabook.org/"> ✃ ATABOOK</a> ] ᡕᠵデᡁ╾━
+ ᵎ!ᵎ[ <a href="https://listography.com/gimp"> LISTOGRAPHY</a> જ⁀➴ <a href="https://neurozone.atabook.org/"> ATABOOK</a> ]ᵎ!ᵎ
  </p>
 
  
   <p align="center">
-   ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہ
+   ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــ
   </p>
   
   </div>
