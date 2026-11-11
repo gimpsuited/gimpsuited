@@ -1,8 +1,17 @@
 <center>
  <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTViN2hvY2Z6ZHp5dG83YXdqb2xpbnB0M3F3emE0OGc4Yml1dDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHltmUmAPnkiJ0hTz9/giphy.gif" height="250">
+ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــ
+ </p>
+ 
+ <p align="center">
+<img src="yepthatsme.png" height="250">
 </p>
 
+ <p align="center">
+ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــ
+ </p>
+
+ 
 <div align="center">
  
 
@@ -13,7 +22,7 @@
 <br>
 
  <p align="center">
- [ <a href="https://listography.com/gimp">LISTOGRAPHY</a> ☢ <a href="https://neurozone.atabook.org/">ATABOOK</a> ]
+ [ <a href="https://listography.com/gimp"> ✃ LISTOGRAPHY</a> ⚠︎ <a href="https://neurozone.atabook.org/"> ✃ ATABOOK</a> ]
  </p>
 
  <h1 align="center">
@@ -26,19 +35,6 @@
 
  </h1>
  
-<p align="center">
-  <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask2.gif"> ˗ˏˋ Offtab usually (almost definitely on R6) -- W2I... ˎˊ˗</strong>
- </p>
- <p align="center">
- <img src="https://pixelsafari.neocities.org/favicon/horror/weapon3.gif"> ˗ˏˋ More info on listography!ˎˊ˗
- </p>
-   <p align="center">
-    <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask.gif"> ˗ˏˋ Pastafarian ripperologist  <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
-</p>
-
-<div align="center">
- 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=sickboyt2&count=1&bg_colour2596be)
   
   </div>
 
