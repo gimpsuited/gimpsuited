@@ -15,7 +15,7 @@
 
 
  <p align="center">
-☠︎ OFFTAB : ̗̀⁍ W21 ☠︎
+☣︎ OFFTAB : ̗̀⁍ W21 ☣︎
 
  
 <div align="center">
@@ -25,7 +25,7 @@
   
 
  <p align="center">
- ᵎ!ᵎ[ <a href="https://listography.com/gimp"> LISTOGRAPHY</a> જ⁀➴ <a href="https://neurozone.atabook.org/"> ATABOOK</a> ]ᵎ!ᵎ
+ ◢ <a href="https://listography.com/gimp"> LISTOGRAPHY</a> જ⁀➴ <a href="https://neurozone.atabook.org/"> ATABOOK</a> ◣
  </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
