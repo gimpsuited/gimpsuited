@@ -1,10 +1,12 @@
 <center>
+
+ 
  <h1 align="center">
  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneurozoned&label=visitors&icon=bug&color=%23f1af3e&message=&style=flat&tz=Etc%2FGMT%2B0">
  </h1>
  
  <p align="center">
-ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــ
+───────────────────────── ⋆.✶
  </p>
  
  <p align="center">
@@ -25,10 +27,15 @@
  <p align="center">
  ᵎ!ᵎ[ <a href="https://listography.com/gimp"> LISTOGRAPHY</a> જ⁀➴ <a href="https://neurozone.atabook.org/"> ATABOOK</a> ]ᵎ!ᵎ
  </p>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=247xx4wdsyzixq37xrn809zor&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffe95c&bar_color_cover=false" width="200">
+  </a>
+</p>
 
- 
+
   <p align="center">
-   ــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ــــــــــہـ٨ـــــــــ
+⋆.✶ ─────────────────────────
   </p>
   
   </div>
